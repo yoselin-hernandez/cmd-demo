@@ -1,20 +1,2 @@
-sdf
-fdf
-dffd
-fdgfd
-gfdg
-fdg
-fgfdgfdgfgfd
-gdfgfd
-gfdg
-fdgdf
-gt5erdfvbfgg
-gfd
-gfg5trtfgn
-ghbfdbdmhkgdf
-vdgkgmlfeg
-fd
-vdf
-fd
-fdg
-fdg
+Yoselin is Developer.
+He is learning in Pluralsight.
